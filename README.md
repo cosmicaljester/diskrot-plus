@@ -1,5 +1,5 @@
 # Discord+
-A sleek, customizable Discord theme.
+[Not my](https://github.com/PlusInsta/discord-plus) sleek, customizable Discord theme.
 
 **Discord+** is a theme for the [Discord](https://discord.com) app. It's both sleek and customizable, without getting in your way. Its top priority is balancing between looks and performance.
 
