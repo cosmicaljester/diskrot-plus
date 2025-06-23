@@ -713,7 +713,6 @@ that have popups, or else the menu breaks when you hover over them */
 	border-radius: var(--dplus-radius-ui);
 }
 .button__201d5:not(.lookBlank__201d5, .lowSaturationUnderline__41f68, .colorPrimary__201d5) {
-	background-color: var(--dplus-bgc-button);
 	transition: var(--dplus-anim-button);
 }
 .button__201d5:not(.lookBlank__201d5):hover, /* buttons hovered over */
