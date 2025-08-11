@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 23831.182 1015.1925"
+   fill-rule="evenodd"
+   stroke-linejoin="round"
+   stroke-miterlimit="2"
+   version="1.1"
+   id="svg23"
+   width="23831.182"
+   height="1015.1925"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style1"><![CDATA[.B{fill-rule:nonzero}.C{fill:#5bcefa}.D{fill:#f5a9b8}.E{fill:#fff}]]></style>
+  <clipPath
+     id="A">
+    <path
+       d="M 22.668,10.416 C 22.84,4.611 18.583,1.128 12.778,1.128 H 0.566 v 30.444 h 12.427 c 6.75,-0.003 10.059,-2.967 10.833,-7.867 0.387,-2.324 -0.129,-6.239 -4.298,-8.344 2.192,-1.116 3.095,-3.568 3.138,-4.945 z M 8.303,13.042 V 7.618 h 4.475 c 3.872,0 3.743,5.424 0,5.424 H 8.303 Z m 0,11.782 v -6.241 h 4.475 c 4.559,0 4.645,6.241 0,6.241 z"
+       id="path1" />
+  </clipPath>
+  <clipPath
+     id="B">
+    <path
+       d="M 41.759,1.131 H 34.751 L 24.132,31.569 h 8.255 l 1.891,-6.106 h 8.126 l 1.978,6.106 h 8.254 z m -5.761,17.501 2.236,-8.901 h 0.215 l 2.106,8.901 z"
+       id="path5" />
+  </clipPath>
+  <clipPath
+     id="C">
+    <path
+       d="m 54.662,1.131 v 30.438 h 11.393 c 6.107,0.043 11.822,-3.007 11.822,-10.014 V 11.317 C 77.877,4.224 72.162,1.131 66.055,1.131 H 54.662 Z m 7.735,23.22 V 8.306 h 3.916 c 2.582,0 3.829,1.248 3.829,3.226 v 9.507 c 0,1.978 -1.204,3.312 -3.829,3.312 z"
+       id="path9" />
+  </clipPath>
+  <clipPath
+     id="D">
+    <path
+       d="M 96.154,1.131 H 89.146 L 78.527,31.569 h 8.255 l 1.891,-6.106 h 8.126 l 1.978,6.106 h 8.254 z m -5.761,17.501 2.236,-8.901 h 0.215 l 2.106,8.901 z"
+       id="path13" />
+  </clipPath>
+  <clipPath
+     id="F">
+    <use
+       xlink:href="#I"
+       id="use18" />
+  </clipPath>
+  <clipPath
+     id="G">
+    <use
+       xlink:href="#I"
+       x="24.252001"
+       id="use20" />
+  </clipPath>
+  <defs
+     id="defs23">
+    <linearGradient
+       id="linearGradient28">
+      <stop
+         style="stop-color:#ff16e1;stop-opacity:1;"
+         offset="0"
+         id="stop29" />
+      <stop
+         style="stop-color:#6712ff;stop-opacity:1;"
+         offset="1"
+         id="stop30" />
+    </linearGradient>
+    <rect
+       x="5.2778492"
+       y="-27.1654"
+       width="148.86639"
+       height="33.064171"
+       id="rect23" />
+    <path
+       id="I"
+       d="m 107.122,26.499 c 2.837,3.653 6.704,5.5 10.36,5.5 5.593,0 11.78,-3.222 12.038,-9.111 0.344,-7.484 -5.07,-9.377 -10.489,-10.366 -2.367,-0.516 -3.959,-1.376 -4.045,-2.839 0.129,-3.526 5.594,-3.655 8.776,-0.258 l 5.027,-3.869 c -3.136,-3.824 -6.703,-4.855 -10.403,-4.855 -5.591,0 -11.006,3.136 -11.006,9.111 0,5.807 4.469,8.904 9.37,9.678 2.496,0.344 5.293,1.333 5.207,3.054 -0.215,3.268 -6.928,3.096 -9.979,-0.602 z" />
+    <linearGradient
+       xlink:href="#linearGradient28"
+       id="linearGradient30"
+       x1="8.1840143"
+       y1="-12.225447"
+       x2="134.72493"
+       y2="-12.354063"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <text
+     xml:space="preserve"
+     id="text23"
+     style="font-size:26.6667px;letter-spacing:8.38398px;word-spacing:0px;white-space:pre;shape-inside:url(#rect23);fill:url(#linearGradient30);fill-opacity:1;stroke-width:13.5864;stroke-dasharray:none"
+     transform="matrix(1.198234,0,0,1.7068538,122.83123,18.885616)"><tspan
+       x="5.2773438"
+       y="-2.9026467"
+       id="tspan2"><tspan
+         style="font-weight:bold;font-family:'ITC Benguiat Gothic Std';-inkscape-font-specification:'ITC Benguiat Gothic Std, Bold';paint-order:stroke fill markers"
+         id="tspan1">JESTER</tspan></tspan></text>
+</svg>
