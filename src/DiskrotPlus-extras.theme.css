@@ -72,18 +72,6 @@
   --dplus-dev: "";
 }
 
-:is(.member_c8ffbb, .contents_c19a55):has(
-  [src*="392445002409574432"]) {
-  --dplus-badge: url("https://cosmicaljester.github.io/diskrot-plus/assets/badges/badge_jester.svg");
-  --dplus-dev: "";
-}
-
-:is(.member_c8ffbb, .contents_c19a55):has(
-  [src*="391390875554545664"], [src*="600596405119352833"]) {
-  --dplus-badge: url("https://cosmicaljester.github.io/diskrot-plus/assets/badges/badge_clown.svg");
-  --dplus-supporter: "";
-}
-
 /* Badges */
 .headerText-15Q25Z:after, .headerTop-1PNKck:before,
 .headerTag-16AlQV:after, .text-lg-semibold__84aef:after
